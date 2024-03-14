@@ -62,7 +62,7 @@ function get_html(goal) {
                         // let marks = markdown.translate($("pro-mian"));
                         console.log($("pro-mian"));
                     });
-                }, Math.random() * 100);
+                }, Math.random() * 1000);
                 
                 // html转为markdown
                 
